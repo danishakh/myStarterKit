@@ -10,15 +10,12 @@ The boilerplate also includes Redux implemented with React.
 Install all packages and run the application
 
 `# Install dependencies for server`
-
 `npm install`
 
 `# Install dependencies for client`
-
 `npm run client-install`
 
 `# Run the client & server with concurrently`
-
 `npm run dev`
 
 `# Server runs on http://localhost:3001 and client on http://localhost:3000`
