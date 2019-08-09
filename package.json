@@ -1,0 +1,30 @@
+{
+  "name": "mystarterkit",
+  "version": "1.0.0",
+  "description": "boilerplate for react and express",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danishakh/myStarterKit.git"
+  },
+  "author": "danish akhtar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/danishakh/myStarterKit/issues"
+  },
+  "homepage": "https://github.com/danishakh/myStarterKit#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "concurrently": "^4.1.1",
+    "express": "^4.17.1",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
