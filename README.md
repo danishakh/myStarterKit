@@ -1,6 +1,6 @@
 # React-Redux Express Starter Kit
 
-This is a boilerplate that you can download to create full stack apps with React and Express. Run your client and server with a single command using `concurrently`. Hope this helps speed your setup! Enjoy :)
+This is a boilerplate that you can download to create full stack apps with React and Express. Run your client and server with a single command using `concurrently`. Hope this helps speed up your setup! Enjoy :grin:
 
 ### Redux
 The boilerplate also includes Redux implemented with React.
